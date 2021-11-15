@@ -1,0 +1,30 @@
+#rev {
+    background-image: url(https://image.shutterstock.com/image-illustration/internet-security-closed-pad-lock-260nw-515395867.jpg);
+    margin: 0%;
+    padding: 0%;
+    background-color: rgba(47, 47, 209, 0.829);
+}
+
+.ber {
+    background-color: rgba(33, 76, 216, 0.89);
+    text-align: center;
+    margin: 300px;
+    margin-top: 60px;
+}
+
+label {
+    text-align: left;
+}
+
+input {
+    border-radius: 10px;
+}
+
+h1,
+button {
+    font-family: cursive;
+}
+
+button {
+    background-color: rgba(192, 112, 112, 0.863);
+}
